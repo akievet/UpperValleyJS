@@ -1,3 +1,27 @@
 body {
+    background-color: #49c4d5;
     font-family: "futura-pt";
+}
+
+img {
+    width: 100%;
+}
+
+.hero-section {
+    padding-top: 50px;
+}
+
+.logo-image {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.logo-image-wrapper {
+    text-align: center;
+}
+
+.description-image {
+    padding-top: 50px;
 }
